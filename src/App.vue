@@ -1,16 +1,16 @@
 <script setup>
 const scenes = [
-  { number: '1', image: './public/im2.PNG' },
-  { number: '2', image: './public/im3.PNG' },
-  { number: '3', image: './public/im4.PNG' },
-  { number: '4', image: './public/im5.PNG' },
-  { number: '5', image: './public/im6.PNG' },
-  { number: '6', image: './public/im7.PNG' },
-  { number: '7', image: './public/im8.PNG' },
-  { number: '8', image: './public/im9.PNG' },
-  { number: '9', image: './public/im10.PNG'},
-  { number: '10', image: './public/im11.PNG'},
-  { number: '11', image: './public/im1.PNG' } 
+  { number: '1', image: './public/im2.png' },
+  { number: '2', image: './public/im3.png' },
+  { number: '3', image: './public/im4.png' },
+  { number: '4', image: './public/im5.png' },
+  { number: '5', image: './public/im6.png' },
+  { number: '6', image: './public/im7.png' },
+  { number: '7', image: './public/im8.png' },
+  { number: '8', image: './public/im9.png' },
+  { number: '9', image: './public/im10.png'},
+  { number: '10', image: './public/im11.png'},
+  { number: '11', image: './public/im1.png' } 
 ];
 </script>
 
