@@ -1,6 +1,6 @@
 <script setup>
 const scenes = [
-{ number: '1', image: '/im2.png' },
+  { number: '1', image: '/im2.png' },
   { number: '2', image: '/im3.png' },
   { number: '3', image: '/im4.png' },
   { number: '4', image: '/im5.png' },
@@ -10,7 +10,7 @@ const scenes = [
   { number: '8', image: '/im9.png' },
   { number: '9', image: '/im10.png'},
   { number: '10', image: '/im11.png'},
-  { number: '11', image: '/im1.png' }
+  { number: '11', image: '/im1.png' } 
 ];
 </script>
 
